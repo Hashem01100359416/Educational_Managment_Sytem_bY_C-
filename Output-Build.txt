@@ -1,0 +1,33 @@
+﻿Build started...
+1>------ Build started: Project: Educational_Managment_Sytem_bY_C++, Configuration: Debug Win32 ------
+1>Educational_System.cpp
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(453,20): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(469,21): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(486,21): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(762,20): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(913,22): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(939,22): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(969,23): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1111,20): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1210,20): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1215,21): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1239,21): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1255,20): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1260,21): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1286,20): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1291,21): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1325,22): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1327,87): warning C4390: ';': empty controlled statement found; is this the intent?
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1373,20): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1378,21): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1398,23): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1451,20): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1461,20): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1467,22): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1491,21): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1493,93): warning C4390: ';': empty controlled statement found; is this the intent?
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(772): warning C4715: 'Educational_System::Get_Name_User': not all control paths return a value
+1>C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Educational_Managment_Sytem_bY_C++\Educational_System.cpp(1121): warning C4715: 'Educational_System::Get_Student_Name': not all control paths return a value
+1>Educational_Managment_Sytem_bY_C++.vcxproj -> C:\Users\HPz\source\repos\Educational_Managment_Sytem_bY_C++\Debug\Educational_Managment_Sytem_bY_C++.exe
+1>Done building project "Educational_Managment_Sytem_bY_C++.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
